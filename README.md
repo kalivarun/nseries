@@ -1,7 +1,7 @@
 # nseries
 <h3>This tool is used to find the aurthametical operation in a series of numbers</h3> 
 <p>
-1. git clone https://github.com/kalivarun/number-series-.git
+1. git clone https://github.com/kalivarun/nseries.git
   <br>
 2. ls 
   <br>
